@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OpenMeteoWeatherApp": {
+      "commandName": "Project",
+      "commandLineArgs": "10 42.0409 146.8087"
+    }
+  }
+}
